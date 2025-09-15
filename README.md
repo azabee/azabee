@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azabee
-- 👀 I’m interested in visual arts, nature, and reading!
+- 👀 I’m interested in art, social justice, reading, and hiking
 - 🌱 I’m currently learning coding and user design
-- 💞️ I’m looking to collaborate on html, css, javascript, ux/ui
+- 💞️ I’m looking to collaborate on C#, javascript, and figma
 - 📫 How to reach me: (https://www.linkedin.com/in/azabrungardt/)
 - 😄 Pronouns: they/them
 
